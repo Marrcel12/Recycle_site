@@ -2297,6 +2297,11 @@ body.app_version .dev-list .widget-title small{
     animation: sonarEffect 1.3s ease-out 75ms;
 }
 
+#support{
+     background-image:url('uploads/form_bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 
 
