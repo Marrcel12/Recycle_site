@@ -2300,8 +2300,7 @@ body.app_version .dev-list .widget-title small{
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-a:hover>i{
+body > div.parallax.section.noover a:hover>i{
     color:black !important;
 }
 
