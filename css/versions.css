@@ -34,7 +34,7 @@ body.app_version .nav-pills > li.active > a:hover,
 body.app_version .icon-wrapper:hover i,
 body.app_version .grd1 {
     color: #ffffff;
-    background: #AD1457;
+    background: #006600;
     border: 1px solid #AD1457;
 }
 
@@ -55,7 +55,7 @@ body.app_version .grd1:hover,
 body.app_version .grd1:focus {
     background-position: 100px;
     color: #ffffff;
-    background: #C62828;    
+    background: #006600;    
 	box-shadow: 0px 1px 27px -3px rgba(0, 0, 0, 0.2);
 }
 
@@ -122,7 +122,7 @@ body.app_version .btn-light i {
 }
 
 body.app_version .effect-1:after {
-    box-shadow: 0 0 0 2px #AD1457;
+    box-shadow: 0 0 0 2px #006600;
 }
 
 body.app_version .footer a,
@@ -173,12 +173,12 @@ body.app_version .contact_form {
 
 body.app_version .owl-next i,
 body.app_version .owl-prev i {
-    background-color: #C62828;
+    background-color: #060;
 	color: #ffffff;
 }
 
 body.app_version .desc h3 i {
-    color: #C62828;
+    color: #006600;
 }
 
 body.app_version .stat-wrap .alignleft {
@@ -261,9 +261,9 @@ body.app_version .footer-social .btn {
     line-height: 33px;
     text-align: center;
     margin: 0 3px;
-    border: 1px solid #e80d45 !important;
+    border: 1px solid #006600 !important;
     color: #ffffff;
-    background-color: #e80d45 !important;
+    background-color: #006600 !important;
 }
 
 body.app_version .dev-list .widget {
